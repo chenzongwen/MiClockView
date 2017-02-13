@@ -6,7 +6,7 @@
 
 Demo gif
 ====
- ![image](https://github.com/chenzongwen/MiClockView.git/blob/master/raw/demo.gif)
+ ![image](https://github.com/chenzongwen/MiClockView/master/demo.gif)
 
 
 Author
