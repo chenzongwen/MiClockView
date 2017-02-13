@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="clock_backgroundColor" format="color" />
+        <attr name="clock_lightColor" format="color" />
+        <attr name="clock_darkColor" format="color" />
+        <attr name="clock_textSize" format="dimension" />
+    </declare-styleable>
+
+</resources>

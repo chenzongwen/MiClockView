@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg">
+
+ <com.ownchan.miclock.ClockView
+     android:layout_width="270dip"
+     android:layout_height="270dp"
+     custom:clock_backgroundColor="@color/bg"
+     custom:clock_darkColor="#80ffffff"
+     custom:clock_lightColor="#ffffff"
+     android:layout_centerInParent="true"/>
+
+</RelativeLayout>
